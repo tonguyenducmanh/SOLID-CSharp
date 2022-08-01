@@ -2,6 +2,7 @@
 {
     public class Program
     {
+        // nguyên tắc đóng và mở
         // class nên đóng để sửa đổi và mở để mở rộng
         // hiểu là nó chạy ngon rồi thì k động vào nó nữa, tạo ra 1 em khác
         // kế thừa nó là mở rộng em khác. thì những cái chạy ở code cũ sẽ không

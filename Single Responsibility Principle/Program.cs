@@ -9,6 +9,7 @@ namespace Single_Responsibility_Principle
     {
         static void Main(string[] args)
         {
+            // nguyên tắc trách nhiệm duy nhất
             // mỗi lớp chỉ có một trách nhiệm duy nhất, và rằng trách nhiệm
             // đó nên được đóng gói hoàn toàn bởi lớp đó. Nó chỉ có 1
             // lý do duy nhất để thay đổi class
