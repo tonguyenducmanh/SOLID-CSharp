@@ -2,6 +2,7 @@
 {
     public class Program
     {
+        // Nguyên tắc thay thế Liskov 
         // nếu s là 1 loại phụ của t thì đối tượng ở dạng t có thể
         // được đặt ở dạng s mà không làm hỏng chương trình
         // ví dụ ở chương trình này employee thay bằng manager hay CEO ở chỗ new object()
